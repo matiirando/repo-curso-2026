@@ -1,0 +1,295 @@
+Script started on Thu Aug 27 15:16:52 2026
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo Tarea01 % [K[?2004hppwd[?2004l
+/Users/matiirando/Documents/Curso-E520/Tareas/Tarea01
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo Tarea01 % [K[?2004hppwd[?2004l
+/Users/matiirando/Documents/Curso-E520/Tareas/Tarea01
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo Tarea01 % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hccd home [?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /home % [K[?2004hppwd[?2004l
+/home
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /home % [K[?2004hccd . . .[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hppwd[?2004l
+/Users/matiirando
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hccd ../..[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hppwd[?2004l
+/Users/matiirando
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hccd ../../etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hccd etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hppwd[?2004l
+/Users/matiirando
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hccd etc[?2004l
+cd: no such file or directory: etc
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hccd /etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hwwhoami[?2004l
+matiirando
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hccd /home. /user/Desktop[?2004l
+cd: no such file or directory: /home/user/Desktop
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hccd~  ~[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hppwd[?2004l
+/Users/matiirando
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hccd ~/des   Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo Desktop % [K[?2004hppwd[?2004l
+/Users/matiirando/Desktop
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo Desktop % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo / % [K[?2004hccd ~/desk    Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo Desktop % [K[?2004hccd /etc[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /etc % [K[?2004hccd /var/log[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo log % [K[?2004hccd . . .[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo /var % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hmmkdir /tmp/tutorial[?2004l
+mkdir: /tmp/tutorial: File exists
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo ~ % [K[?2004hccd /tmp/ttu  utorial[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir dir1 dir2 dir3[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir[?2004l
+usage: mkdir [-pv] [-m mode] directory_name ...
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccd /etc ~/desk    Desktop[?2004l
+cd: string not in pwd: /etc
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+dir1	dir2	dir3
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir -p dir4/dir5/dir6[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+dir1	dir2	dir3	dir4
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccdd  dir4[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo dir4 % [K[?2004hlls[?2004l
+dir5
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo dir4 % [K[?2004hccec cd dir5[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo dir5 % [K[?2004hlls[?2004l
+dir6
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo dir5 % [K[?2004hccd ../..[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir --parents --verbose dir4/dir5[?2004l
+mkdir: illegal option -- -
+usage: mkdir [-pv] [-m mode] directory_name ...
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir -p --verbose dir4/dir5[?2004l
+mkdir: illegal option -- -
+usage: mkdir [-pv] [-m mode] directory_name ...
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir -p -v dir4/dir5[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir -pv dir4/dir5[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir another folder[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+another	dir1	dir2	dir3	dir4	folder
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir "folder 1"[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir 'folder 2'[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir folder\ 3[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir "folder 4" "folder 5"[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmkdir -p "folder 6" / /  /"  /' "folder 7"[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+another		dir3		folder 1	folder 4
+dir1		dir4		folder 2	folder 5
+dir2		folder		folder 3	folder 6
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+another		dir3		folder 1	folder 4
+dir1		dir4		folder 2	folder 5
+dir2		folder		folder 3	folder 6
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls > output.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat output.txt[?2004l
+another
+dir1
+dir2
+dir3
+dir4
+folder
+folder 1
+folder 2
+folder 3
+folder 4
+folder 5
+folder 6
+output.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat[?2004l
+cat
+cat
+pwd
+pwd
+cst
+cst
+cat
+cat
+echo "this is a tws  est"
+echo "this is a test"
+^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[A^[[A^[[A                                            ^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A                                    cat
+cat
+
+
+cat
+cat
+cat
+cat
+^C
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat[?2004l
+^C
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "ec  this is a test"[?2004l
+this is a test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004he ccat[?2004l
+^C
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "This is a test"[?2004l
+This is a test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "This is a test" > test_1.te xt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heeco ho "Thista   is a second tex st" > test_2.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "this is a third test" [?2004l
+this is a third test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "this is a third test" > test_3.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+another		dir4		folder 3	output.txt
+dir1		folder		folder 4	test_1.txt
+dir2		folder 1	folder 5	test_2.txt
+dir3		folder 2	folder 6	test_3.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat test_1.txt test_2.txt test_3.txt[?2004l
+This is a test
+This is a second test
+this is a third test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat test_1.txt test_2.txt test_3.txt[?2004l
+This is a test
+This is a second test
+this is a third test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat test_?.txt[?2004l
+This is a test
+This is a second test
+this is a third test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat test_*[?2004l
+This is a test
+This is a second test
+this is a third test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat t* > combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat combined.tc xt[?2004l
+This is a test
+This is a second test
+this is a third test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat t* >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "i I've appended a line!" >> combined.txt    t[?2004l
+[0m[27m[24m[Jdquote> [K[?2004hllsl  ccat[?2004l
+[0m[27m[24m[Jdquote> [K[?2004hcat t* >> combined.txt[18D[6P[12C      [12Dt* >> combined.txt[22D                      [22Dppwd[?2004l
+[0m[27m[24m[Jdquote> [K[?2004ht ccat t*[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heewe echo "I've appended a line!" >> combined.txt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho [7m"[27m[27m"I've appended  a line![7m"[27m[27m" >> combined.txt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hV [7mecho 'I\'ve appended a line!' >> combined.txt[27m [K[?2004l[K
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004h[7mecho 'I\'ve appended a line!' >> combined.txt[27m [K[?2004l[K
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004h[7mecho 'I\'ve appended a line!' >> combined.txt[27m [K[A[42C[27me[27mc[27mh[27mo[27m [27m'[27mI[27m\[27m'[27mv[27me[27m [27ma[27mp[27mp[27me[27mn[27md[27me[27md[27m [27ma[27m [27ml[27mi[27mn[27me[27m![27m'[27m [27m>[27m>[27m [27mc[27mo[27mm[27mb[27mi[27mn[27me[27md[27m.[27mt[27mx[27mt [K[?2004l
+[0m[27m[24m[Jquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "I ' 've appended ali   li ne  ine     line !" . >>comn bined.txt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004hccat combined.txt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat combined.txt[?2004l
+This is a test
+This is a second test
+this is a third test
+This is a test
+This is a second test
+this is a third test
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho"  "i have appended a line!" >> combined .tx [K[?2004l[K
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "I have appended a line!" >>combined.txt [Kcca\ c [K[A[86C[K[1B[K[A[86C                                 [?2004l[1B[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004h[7mecho "I've appended a line!" >>combined.txt[27m[43D[27me[27mc[27mh[27mo[27m [27m"[27mI[27m'[27mv[27me[27m [27ma[27mp[27mp[27me[27mn[27md[27me[27md[27m [27ma[27m [27ml[27mi[27mn[27me[27m![27m"[27m [27m>[27m>[27mc[27mo[27mm[27mb[27mi[27mn[27me[27md[27m.[27mt[27mx[27m                                 .   have appended a line !" >> combined.tx [Kt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004h[7mecho "I have appended a line!" >> combined.tx[7mt[27m[K[A[41C[27me[27mc[27mh[27mo[27m [27m"[27mI[27m [27mh[27ma[27mv[27me[27m [27ma[27mp[27mp[27me[27mn[27md[27me[27md[27m [27ma[27m [27ml[27mi[27mn[27me[27m![27m"[27m [27m>[27m>[27m [27mc[27mo[27mm[27mb[27mi[27mn[27me[27md[27m.[27mt[27mxt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004h[7mecho "I have appended a line!" >> combined.tx[7mt[27m[K[A[41C[27me[27mc[27mh[27mo[27m [27m"[27mI[27m [27mh[27ma[27mv[27me[27m [27ma[27mp[27mp[27me[27mn[27md[27me[27md[27m [27ma[27m [27ml[27mi[27mn[27me[27m![27m"[27m [27m>[27m>[27m [27mc[27mo[27mm[27mb[27mi[27mn[27me[27md[27m.[27mt[27mxt[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004h[7mecho I have appended a line! >> combined.txt[27m[44D[27me[27mc[27mh[27mo[27m [27mI[27m [27mh[27ma[27mv[27me[27m [27ma[27mp[27mp[27me[27mn[27md[27me[27md[27m [27ma[27m [27ml[27mi[27mn[27me[27m![27m [27m>[27m>[27m [27mc[27mo[27mm[27mb[27mi[27mn[27me[27md[27m.[27mt[27mx[27mt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccat combined.txt[?2004l
+This is a test
+This is a second test
+this is a third test
+This is a test
+This is a second test
+this is a third test
+I have appended a line!
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlless combined.txt[?2004l
+[?1049h[48;1H[?1h=This is a test
+This is a second test
+this is a third test
+This is a test
+This is a second test
+this is a third test
+I have appended a line!
+[7mcombined.txt (END)[27m[K[K[K[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "Lower case" > a.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "Upper case" > A.TXT[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heecho "Mixed case " " > A.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv combined.txt dir1[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls dir1[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv dir1/* .[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv combined.txt test_* dir3 dir2[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+a.txt		dir2		folder 1	folder 4	output.txt
+another		dir4		folder 2	folder 5
+dir1		folder		folder 3	folder 6
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls dir2[?2004l
+combined.txt	dir3		test_1.txt	test_2.txt	test_3.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv dir2/combined.txt dir4/dir5/dir6[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls dir2[?2004l
+dir3		test_1.txt	test_2.txt	test_3.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls dir4/dir5/dir6[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccp dir4/dir5/dir6/combined.txt .[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls dir4/dir5/dir6[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+a.txt		dir1		folder		folder 3	folder 6
+another		dir2		folder 1	folder 4	output.txt
+combined.txt	dir4		folder 2	folder 5
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hccp combined.txt backup_combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+a.txt			dir2			folder 3
+another			dir4			folder 4
+backup_combined.txt	folder			folder 5
+combined.txt		folder 1		folder 6
+dir1			folder 2		output.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv backup_combined.txt combined_backup.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+a.txt			dir2			folder 3
+another			dir4			folder 4
+combined_backup.txt	folder			folder 5
+combined.txt		folder 1		folder 6
+dir1			folder 2		output.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv "folder 1" folder_1[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv "folder2" folder_2[?2004l
+mv: rename folder2 to folder_2: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv "folder 2" folder_2[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv "folder 3" folder_3[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv "folder 4" folder_4[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv "folder 5" folder_5[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hmmv "folder 6" folder_6[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+a.txt			dir2			folder_3
+another			dir4			folder_4
+combined_backup.txt	folder			folder_5
+combined.txt		folder_1		folder_6
+dir1			folder_2		output.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hrrm dir4/dir5/dir6/combined.txt combined_backu [Kp[K[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hrrm dir4/dir5/dir6/combined.txt combineed  d_backu [Kpp.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heeme  rrm folder_*[?2004l
+rm: folder_1: is a directory
+rm: folder_2: is a directory
+rm: folder_3: is a directory
+rm: folder_4: is a directory
+rm: folder_5: is a directory
+rm: folder_6: is a directory
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hrrmdir folder_*[?2004l
+rmdir: folder_6: Directory not empty
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hrrm -r folder_6[?2004l
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004hlls[?2004l
+a.txt		combined.txt	dir2		folder
+another		dir1		dir4		output.txt
+[1m[7m%[27m[1m[0m                                                                                       [0m[27m[24m[Jmatiirando@Matiass-MacBook-Neo tutorial % [K[?2004heexit[?2004l
+
+Script done on Thu Aug 27 16:17:29 2026
