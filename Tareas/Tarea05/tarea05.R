@@ -181,3 +181,5 @@ bigramas_negacion <- bigramas %>%
   count(palabra1, palabra2, sort = TRUE)
 
 head(bigramas_negacion, 15)
+
+git add "tarea05"
